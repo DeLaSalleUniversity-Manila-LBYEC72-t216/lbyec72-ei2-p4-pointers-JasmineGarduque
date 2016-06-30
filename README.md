@@ -2,4 +2,4 @@
 
 NOT FINISHED
 
-Capture.JPEG
+Capture.JPG
